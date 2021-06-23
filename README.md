@@ -1,6 +1,6 @@
 # vue-cli
 
-> A Vue.js project
+> Simple math operation quiz. Uses animations, components and communication between them. 
 
 ## Build Setup
 
